@@ -74,7 +74,6 @@ Il couvre l'ensemble du cycle de développement : conception, modélisation BDD,
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Julien-dev-code&theme=dark&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=ffffff&border=FF6B35)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julien-dev-code&layout=compact&theme=dark&title_color=FF6B35&text_color=ffffff&bg_color=0d1117&border_color=FF6B35)
 
 </div>
 
@@ -112,3 +111,4 @@ Je m'entraîne sur **Frontend Mentor** pour consolider mes bases en intégration
 *🟠 En reconversion · En formation DWWM · À la recherche d'un stage du 21 juillet au 18 septembre 2026*
 
 </div>
+
