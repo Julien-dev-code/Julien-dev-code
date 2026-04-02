@@ -60,7 +60,7 @@ Il couvre l'ensemble du cycle de développement : conception, modélisation BDD,
 
 | Côté | Techno |
 |------|--------|
-| Back-end | PHP |
+| Back-end | PHP / Symfony |
 | Base de données | MySQL / Doctrine |
 | Front-end | HTML · CSS · JavaScript |
 | Infra | Docker |
@@ -72,11 +72,27 @@ Il couvre l'ensemble du cycle de développement : conception, modélisation BDD,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julien-dev-code&show_icons=true&theme=dark&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff&bg_color=0d1117&border_color=FF6B35)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Julien-dev-code&theme=dark&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=ffffff&border=FF6B35)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julien-dev-code&layout=compact&theme=dark&title_color=FF6B35&text_color=ffffff&bg_color=0d1117&border_color=FF6B35)
 
 </div>
+
+---
+
+## 🌐 Mes Projets en ligne
+
+[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com)
+
+Je m'entraîne sur **Frontend Mentor** pour consolider mes bases en intégration web.  
+2 projets déjà déployés sur **Netlify**, un 3ème en cours.
+
+| Projet | Stack | Lien |
+|--------|-------|------|
+| Clipboard Page | HTML · CSS | [🔗 Voir le projet](https://clipboardpage-julien.netlify.app) |
+| Tech Book Club | HTML · CSS | [🔗 Voir le projet](https://techbookclub-julien.netlify.app) |
+| Projet 3 🚧 | HTML · CSS · JS | En cours... |
 
 ---
 
@@ -85,7 +101,7 @@ Il couvre l'ensemble du cycle de développement : conception, modélisation BDD,
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julien-niedziela-80932130a)
-[![Email](https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julien.niedziela@yahoo.fr)
+[![Email](https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TON_EMAIL)
 
 </div>
 
