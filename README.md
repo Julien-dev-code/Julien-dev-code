@@ -87,10 +87,10 @@ Il couvre l'ensemble du cycle de développement : conception, modélisation BDD,
 Je m'entraîne sur **Frontend Mentor** pour consolider mes bases en intégration web.  
 2 projets déjà déployés sur **Netlify**, un 3ème en cours.
 
-| Projet | Stack | Lien |
-|--------|-------|------|
-| Clipboard Page | HTML · CSS | [🔗 Voir le projet](https://clipboardpage-julien.netlify.app) |
-| Tech Book Club | HTML · CSS | [🔗 Voir le projet](https://techbookclub-julien.netlify.app) |
+| Projet | Stack | Démo | Code |
+|--------|-------|------|------|
+| Clipboard Page | HTML · CSS | [🔗 Démo](https://clipboardpage-julien.netlify.app) | — |
+| Tech Book Club | HTML · CSS | [🔗 Démo](https://techbookclub-julien.netlify.app) | [📁 Code](https://github.com/Julien-dev-code/tech-book-club) |
 | Projet 3 🚧 | HTML · CSS · JS | En cours... |
 
 ---
