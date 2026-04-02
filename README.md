@@ -16,7 +16,7 @@ Ce que j'apporte en plus d'un parcours classique : de la maturité, de la rigueu
 
 - 🔥 **En ce moment :** PHP / Symfony · JavaScript · SQL
 - 🚧 **Projet fil rouge :** GEST CLUB — gestion de réservations pour clubs sportifs
-- 🎯 **Objectif :** Titre DWWM → DFS en alternance dès 2026
+- 🎯 **Objectif :** Titre DWWM → Master en alternance dès 2026
 - 📍 **Base :** Sud Moselle · Remote OK
 
 ---
@@ -60,7 +60,7 @@ Il couvre l'ensemble du cycle de développement : conception, modélisation BDD,
 
 | Côté | Techno |
 |------|--------|
-| Back-end | PHP / Symfony |
+| Back-end | PHP |
 | Base de données | MySQL / Doctrine |
 | Front-end | HTML · CSS · JavaScript |
 | Infra | Docker |
@@ -72,9 +72,9 @@ Il couvre l'ensemble du cycle de développement : conception, modélisation BDD,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julien-dev-web&show_icons=true&theme=dark&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff&bg_color=0d1117&border_color=FF6B35)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julien-dev-code&show_icons=true&theme=dark&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff&bg_color=0d1117&border_color=FF6B35)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julien-dev-web&layout=compact&theme=dark&title_color=FF6B35&text_color=ffffff&bg_color=0d1117&border_color=FF6B35)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julien-dev-code&layout=compact&theme=dark&title_color=FF6B35&text_color=ffffff&bg_color=0d1117&border_color=FF6B35)
 
 </div>
 
@@ -84,7 +84,7 @@ Il couvre l'ensemble du cycle de développement : conception, modélisation BDD,
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_PROFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julien-niedziela-80932130a)
 [![Email](https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julien.niedziela@yahoo.fr)
 
 </div>
@@ -93,6 +93,6 @@ Il couvre l'ensemble du cycle de développement : conception, modélisation BDD,
 
 <div align="center">
 
-*🟠 En reconversion · En formation DWWM · À la recherche d'un stage non remunéré du 21 juillet au 18 septembre 2026*
+*🟠 En reconversion · En formation DWWM · À la recherche d'un stage du 21 juillet au 18 septembre 2026*
 
 </div>
